@@ -12,4 +12,3 @@ register_asset "images/avatars/avatar1.png"
 register_asset "images/avatars/avatar2.png"
 register_asset "images/avatars/avatar3.png"
 
-register_asset "javascripts/discourse/custom-avatars/components/avatar-selector.js", :client_side
